@@ -1677,6 +1677,13 @@ RULEBOOK = {
 				return returningData;
 			},
 		},
+		brainstormJoker:{
+			name : "Brainstorm",
+			description: "Copies the ability of leftmost Joker - not functional yet",
+			price: 10,
+			quality:5,
+			id : "138",
+		},
 	},
 	vouchers:{
 		overstockVoucher : {
